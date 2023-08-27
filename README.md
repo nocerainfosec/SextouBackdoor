@@ -2,6 +2,9 @@
 
 SextouBackdoor is a cross-platform, educational offensive tool written in Python 3. This tool includes both the listener and client components for establishing a remote connection and executing commands on a target machine. Please note that this tool is intended for educational use only. 🛠️🔒
 
+# Demo
+https://github.com/nocerainfosec/SextouBackdoor/assets/105872185/ab094b1e-f486-4a53-a99f-2406ca209f48
+
 ## Features
 
 - Remote command execution on the target machine.
